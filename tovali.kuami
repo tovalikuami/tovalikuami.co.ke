@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>www.tovalikuami.co.ke
+<head>
+<title>Tovali Kuami</title>
+<style>
+body{
+background:#111;
+color:white;
+font-family:Arial;
+text-align:center;
+padding:40px;
+}
+
+img{<h2>My Photos</h2>
+
+<img src="photo1.jpg" width="250">
+<img src="photo2.jpg" width="250">
+<img src="photo3.jpg" width="250">
+width:200px;
+border-radius:50%;
+margin-top:20px;
+}
+
+a{
+color:#black;
+text-decoration:none;
+margin:10px;
+font-size:20px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Tovali Kuami</h1>
+<h3>tovalikuami371@gmail.com</h3>
+
+<Hi, I'm Tovali Kuami, a 22-year-old IT graduate who completed my studies in 2024. I am passionate about technology, creativity, and personal growth. I enjoy building things, learning new ideas, and exploring how technology can help people and communities.
+
+I spend my time between Eldoret and Busia, Kenya. When I’m not working with tech, I express myself through art. I love painting and singing, which allow me to share creativity and emotion in different ways.
+
+I also enjoy watching games from time to time and spending moments reflecting on life and improving myself. I believe in self-confidence, creativity, and using my skills to grow and inspire others.
+
+This website is a place where I share my thoughts, creativity, and experiences as I continue my journey in technology and art..</p>
+
+<img src="https://via.placeholder.com/200">
+
+<h2><h2>Follow Me</h2>
+
+<p>
+<a href="https://instagram.com/" target="_blank">tovali.kuami</a><br>
+<a href="https://facebook.com/Tovalikuami" target="_blank">Facebook</a><br>
+<a href="https://twitter.com/tovali.kuami" target="_blank">Twitter / X</a><br>
+<a href="https://github.com/tovalikuami" target="_blank">GitHub</a><br>
+<a href="https://youtube.com/tovalikuami" target="_blank">YouTube</a>
+</p></h2>
+
+<p>
+<a href="#">Home</a> |
+<a href="#">Blog</a> |
+<a href="#">About</a>
+</p>
+
+<p>© 2026 Tovali Kuami</p>
+
+</body>
+</html>
